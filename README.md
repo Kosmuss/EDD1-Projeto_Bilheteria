@@ -1,4 +1,4 @@
-# INSTRUÇÔES DO PROJETO:
+# INSTRUÇõES DO PROJETO:
 
 Um teatro possui 600 lugares dispostos em 15 fileiras com 40 poltronas cada.
 
